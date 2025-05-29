@@ -16,12 +16,12 @@ A futuristic landing page built to showcase character profiles with animated vis
 
 ## 🔧 Key Features
 
-✅ Circular Text Rotation using custom JavaScript
-✅ Responsive Navbar with mobile menu toggle
-✅ Character selection with Thumbnail Highlighting
-✅ Clean futuristic UI inspired by sci-fi themes
-✅ Typography-first layout using Google Fonts
-✅ Designed for portfolio or character introduction landing pages
+- ✅ Circular Text Rotation using custom JavaScript
+- ✅ Responsive Navbar with mobile menu toggle
+- ✅ Character selection with Thumbnail Highlighting
+- ✅ Clean futuristic UI inspired by sci-fi themes
+- ✅ Typography-first layout using Google Fonts
+- ✅ Designed for portfolio or character introduction landing pages
 
 ## 🛠 Technologies Used
 
