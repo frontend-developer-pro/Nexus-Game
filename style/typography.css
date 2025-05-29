@@ -1,0 +1,10 @@
+:root {
+    --background: #0a0a0a;
+    --foreground: #ffffff;
+    --nexus-dark: #121212;
+    --nexus-gray: #232323;
+    --nexus-silver: #ababab;
+    --nexus-light: #d8d8d8;
+    --font-rajdhani: 'Rajdhani', sans-serif;
+    --font-barlow: 'Barlow', sans-serif;
+}
